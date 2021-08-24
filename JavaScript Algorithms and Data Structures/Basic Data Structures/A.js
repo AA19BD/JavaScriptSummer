@@ -1,0 +1,1 @@
+let yourArray=['string data type',1.2,12,false,null]; // Change this line
